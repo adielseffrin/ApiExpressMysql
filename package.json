@@ -1,0 +1,15 @@
+{
+  "name": "programming-languages-api",
+  "version": "1.0.0",
+  "description": "A demo REST API with Node.js and Express and MySQL for prog. languages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adielseffrin/ApiExpressMysql.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
